@@ -1,0 +1,38 @@
+<svg width="1536" height="1024" viewBox="0 0 1536 1024" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="heroTitle heroDesc">
+  <title id="heroTitle">Hero Venetian Studio</title>
+  <desc id="heroDesc">Composicion editorial calida de arquitectura contemporanea para la portada del sitio.</desc>
+  <defs>
+    <linearGradient id="sky" x1="192" y1="102" x2="1194" y2="930" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#43362A"/>
+      <stop offset="0.34" stop-color="#7D664B"/>
+      <stop offset="0.68" stop-color="#C9AE87"/>
+      <stop offset="1" stop-color="#F2E6D5"/>
+    </linearGradient>
+    <linearGradient id="ground" x1="768" y1="588" x2="768" y2="1024" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#221B16"/>
+      <stop offset="1" stop-color="#120F0C"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="856" y1="346" x2="1128" y2="692" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C8AA78" stop-opacity="0.84"/>
+      <stop offset="1" stop-color="#6B553F" stop-opacity="0.12"/>
+    </linearGradient>
+  </defs>
+  <rect width="1536" height="1024" fill="url(#sky)"/>
+  <rect y="588" width="1536" height="436" fill="url(#ground)"/>
+  <path d="M0 667L354 606L531 640L808 560L1025 617L1536 555V1024H0V667Z" fill="#1A1511"/>
+  <path d="M738 344H1216V762H657V560L738 485V344Z" fill="#2B231D"/>
+  <path d="M809 392H1151V712H809V392Z" fill="url(#glass)"/>
+  <path d="M707 563H1193V762H707V563Z" fill="#171310"/>
+  <rect x="847" y="430" width="72" height="248" fill="#E1C18C" fill-opacity="0.55"/>
+  <rect x="943" y="430" width="72" height="248" fill="#E1C18C" fill-opacity="0.4"/>
+  <rect x="1039" y="430" width="72" height="248" fill="#E1C18C" fill-opacity="0.26"/>
+  <path d="M657 560L738 485H1150V560H657Z" fill="#44352A"/>
+  <path d="M214 694H628L528 862H96L214 694Z" fill="#2E251F"/>
+  <path d="M1208 682H1448L1536 842H1114L1208 682Z" fill="#241D17"/>
+  <path d="M95 823H533" stroke="#8F7B63" stroke-opacity="0.34" stroke-width="2"/>
+  <path d="M1112 820H1536" stroke="#8F7B63" stroke-opacity="0.28" stroke-width="2"/>
+  <path d="M0 757H1536" stroke="#F5EBDD" stroke-opacity="0.08" stroke-width="2"/>
+  <path d="M0 814H1536" stroke="#F5EBDD" stroke-opacity="0.06" stroke-width="2"/>
+  <circle cx="1214" cy="169" r="132" fill="#F3DDC0" fill-opacity="0.24"/>
+  <path d="M180 291C308 195 493 144 672 168" stroke="#F7EBDC" stroke-opacity="0.22" stroke-width="2"/>
+</svg>
