@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://doblesstudioface-del.github.io/venetian-studio-template-01/sitemap.xml
