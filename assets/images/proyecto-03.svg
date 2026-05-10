@@ -1,0 +1,23 @@
+<svg width="1200" height="1500" viewBox="0 0 1200 1500" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="projectThreeTitle projectThreeDesc">
+  <title id="projectThreeTitle">Estudio y proceso</title>
+  <desc id="projectThreeDesc">Espacio de estudio estilizado para representar el proceso de atencion del despacho.</desc>
+  <defs>
+    <linearGradient id="p3bg" x1="110" y1="92" x2="996" y2="1384" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2C241E"/>
+      <stop offset="0.36" stop-color="#6C5845"/>
+      <stop offset="1" stop-color="#D5BE9B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1500" fill="url(#p3bg)"/>
+  <rect y="1094" width="1200" height="406" fill="#16120F"/>
+  <rect x="118" y="382" width="964" height="620" rx="20" fill="#251E18"/>
+  <rect x="196" y="466" width="808" height="388" rx="16" fill="#CDAE82" fill-opacity="0.18"/>
+  <rect x="254" y="542" width="692" height="44" fill="#DDBF90" fill-opacity="0.42"/>
+  <rect x="254" y="628" width="422" height="28" fill="#EAD0A7" fill-opacity="0.36"/>
+  <rect x="254" y="690" width="516" height="28" fill="#EAD0A7" fill-opacity="0.25"/>
+  <rect x="778" y="616" width="112" height="180" fill="#E8C996" fill-opacity="0.34"/>
+  <rect x="258" y="916" width="684" height="126" rx="14" fill="#130F0D"/>
+  <path d="M118 382L282 246H1082V382H118Z" fill="#4B3B2F"/>
+  <circle cx="964" cy="204" r="82" fill="#F3DFC3" fill-opacity="0.18"/>
+  <path d="M0 1210L287 1152L512 1176L756 1132L1200 1044V1500H0V1210Z" fill="#0C0A08"/>
+</svg>
