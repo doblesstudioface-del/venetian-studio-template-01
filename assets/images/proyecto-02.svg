@@ -1,0 +1,20 @@
+<svg width="1200" height="1500" viewBox="0 0 1200 1500" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="projectTwoTitle projectTwoDesc">
+  <title id="projectTwoTitle">Proyecto interior</title>
+  <desc id="projectTwoDesc">Interior estilizado con materiales calidos para representar el portafolio del estudio.</desc>
+  <defs>
+    <linearGradient id="p2bg" x1="102" y1="88" x2="1094" y2="1412" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F1E7D8"/>
+      <stop offset="0.35" stop-color="#D8C4AB"/>
+      <stop offset="1" stop-color="#7B6247"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1500" fill="url(#p2bg)"/>
+  <rect x="0" y="1122" width="1200" height="378" fill="#281F19"/>
+  <path d="M214 0H1200V951H474C397 951 335 889 335 812V121C335 54 389 0 456 0H214Z" fill="#E7D8C4"/>
+  <path d="M770 214C904 214 1013 323 1013 457V1122H642V457C642 323 636 214 770 214Z" fill="#CAB292"/>
+  <path d="M771 307C853 307 920 374 920 456V1122H719V456C719 374 688 307 771 307Z" fill="#B3916C"/>
+  <rect x="96" y="702" width="384" height="420" fill="#3A2E26"/>
+  <rect x="96" y="768" width="384" height="66" fill="#D3B182"/>
+  <path d="M480 0L693 214H548C503 214 467 178 467 133V0H480Z" fill="#F5ECE0"/>
+  <path d="M0 1208H1200" stroke="#F6ECDD" stroke-opacity="0.08" stroke-width="2"/>
+</svg>
