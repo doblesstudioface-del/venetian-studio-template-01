@@ -1,6 +1,6 @@
-const WHATSAPP_NUMBER = "";
+const WHATSAPP_NUMBER = "50244931433";
 const WHATSAPP_MESSAGE =
-  "Hola, vengo desde la web de Venetian Studio y me gustaría recibir información sobre un proyecto.";
+  "Hola, vengo desde la web de Venetian Studio y me gustaría recibir información sobre mi proyecto en Ciudad de Guatemala.";
 
 const navToggle = document.querySelector(".nav-toggle");
 const siteNav = document.querySelector(".site-nav");
@@ -33,7 +33,7 @@ ctaLinks.forEach((link) => {
 });
 
 if (whatsappStatus && WHATSAPP_NUMBER) {
-  whatsappStatus.textContent = "WhatsApp configurado y listo para captar leads desde la web.";
+  whatsappStatus.textContent = "WhatsApp configurado y listo para recibir consultas en Ciudad de Guatemala.";
 }
 
 if ("IntersectionObserver" in window) {
