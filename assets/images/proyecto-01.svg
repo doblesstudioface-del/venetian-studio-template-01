@@ -1,0 +1,22 @@
+<svg width="1200" height="1500" viewBox="0 0 1200 1500" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="projectOneTitle projectOneDesc">
+  <title id="projectOneTitle">Proyecto residencial</title>
+  <desc id="projectOneDesc">Fachada estilizada para representar un proyecto residencial contemporaneo.</desc>
+  <defs>
+    <linearGradient id="p1bg" x1="185" y1="116" x2="993" y2="1344" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#DCC4A3"/>
+      <stop offset="0.42" stop-color="#AE8D67"/>
+      <stop offset="1" stop-color="#342922"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1500" fill="url(#p1bg)"/>
+  <rect y="1045" width="1200" height="455" fill="#1B1511"/>
+  <rect x="214" y="445" width="772" height="495" fill="#2A211B"/>
+  <rect x="310" y="513" width="578" height="331" fill="#CEB084" fill-opacity="0.28"/>
+  <rect x="356" y="555" width="145" height="246" fill="#E9C892" fill-opacity="0.54"/>
+  <rect x="539" y="555" width="145" height="246" fill="#E9C892" fill-opacity="0.34"/>
+  <rect x="722" y="555" width="122" height="246" fill="#E9C892" fill-opacity="0.22"/>
+  <path d="M214 445L336 355H986V445H214Z" fill="#594436"/>
+  <rect x="116" y="970" width="968" height="82" fill="#100D0B"/>
+  <path d="M0 1209L273 1098L556 1131L872 1084L1200 1020V1500H0V1209Z" fill="#0E0B09"/>
+  <path d="M62 1005H1138" stroke="#F2E4D1" stroke-opacity="0.09" stroke-width="2"/>
+</svg>
